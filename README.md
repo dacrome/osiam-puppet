@@ -1,4 +1,4 @@
-osiam-puppet
+osiam-puppet  [![Build Status](https://travis-ci.org/dacrome/osiam-puppet.png?branch=master)](https://travis-ci.org/dacrome/osiam-puppet)
 ============
 
 This repository conatins the [OSIAM Puppet Manifest](manifests/init.pp).
